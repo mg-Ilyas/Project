@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SonarProjectConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/analyzer/2021/1">
+  <AnalysisConfigPath>/Users/mgilyass/Desktop/readit/cart/.sonarqube/conf/SonarQubeAnalysisConfig.xml</AnalysisConfigPath>
+  <ProjectPath>/Users/mgilyass/Desktop/readit/cart/cart.csproj</ProjectPath>
+  <FilesToAnalyzePath>/Users/mgilyass/Desktop/readit/cart/.sonarqube/conf/0/FilesToAnalyze.txt</FilesToAnalyzePath>
+  <OutPath>/Users/mgilyass/Desktop/readit/cart/.sonarqube/out/0</OutPath>
+  <ProjectType>Product</ProjectType>
+  <TargetFramework>netcoreapp7</TargetFramework>
+</SonarProjectConfig>
